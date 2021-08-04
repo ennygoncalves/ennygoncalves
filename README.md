@@ -20,12 +20,15 @@
   <img align="center" alt="Enny-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Enny-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
    <img align="center" alt="Enny-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-    <img align="right" alt="Enny-Gif" height="240" width="240" src="https://i.picasion.com/pic91/4072beb355a8a10e7f0040ff9eb58de4.gif">
+   
   </div>
   
   ##
- 
-<div> 
+ <div>  
+  <img align="right" alt="Enny-Gif" height="240" width="240" src="https://i.picasion.com/pic91/4072beb355a8a10e7f0040ff9eb58de4.gif">
+ </div>
+
+ <div> 
 
   ##
   
